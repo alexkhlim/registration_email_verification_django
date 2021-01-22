@@ -1,0 +1,1 @@
+# registration_email_verification_django
